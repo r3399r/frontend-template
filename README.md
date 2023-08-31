@@ -27,7 +27,8 @@ npm install -D husky
 npm install -D npm-run-all
 
 # 程式碼風格管理工具
-npm install -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-import-resolver-typescript eslint-plugin-import eslint-plugin-react prettier
+npm install -D eslint eslint-import-resolver-typescript eslint-plugin-import eslint-plugin-react prettier
+# @typescript-eslint/eslint-plugin @typescript-eslint/parser 這兩個套件已內建於 react template
 
 # tailwind css
 npm install -D tailwindcss
